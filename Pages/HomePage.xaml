@@ -36,6 +36,7 @@
                     Text="CALCULAR"
                     Clicked="onClicKedCalcularButton"/>
             <Label x:Name="resultFatorialText"
+                   HorizontalTextAlignment="Center"
                    Grid.Row="4"
                    Text="Resultado: "
                    TextColor="Green"
