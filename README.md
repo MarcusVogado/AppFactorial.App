@@ -6,4 +6,4 @@
 #XAML</br>
 #.NET MAUI</br>
 #Colocando em prática.</br>
-<image Style="widht: 350; height: 600;"  src="https://user-images.githubusercontent.com/107502578/236338345-41be12ca-e174-4d06-8fb6-c9ed15a1c20b.png"/>
+<image Style="widht: 350px; height: 600px;"  src="https://user-images.githubusercontent.com/107502578/236338345-41be12ca-e174-4d06-8fb6-c9ed15a1c20b.png"/>
