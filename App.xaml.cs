@@ -7,7 +7,7 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		MainPage = new InitialPage();
+		MainPage = new ShellPage();
 	}
     protected override void OnStart()
     {

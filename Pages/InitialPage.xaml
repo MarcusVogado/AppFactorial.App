@@ -3,16 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppFactorial.Pages.InitialPage"
              xmlns:local="clr-namespace:AppFactorial.Pages"
+             Shell.FlyoutBehavior="Disabled"
              >
-
-            <ShellContent
+    <Tab>
+        <ShellContent
             Title="Início"
-            ContentTemplate="{DataTemplate local:InitialPage}"
-            Route="InitialPage" />
-            <ShellContent
-            Title="Relatório"
             ContentTemplate="{DataTemplate local:Report}"
-            Route="Report"/>
-
-    
+            Route="InitialPage" />
+        
+    </Tab> 
 </Shell>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="AppFactorial.Pages.Report"
+             x:Class="AppFactorial.Pages.HomePage"
              Title=""
-             >
+            >
     <VerticalStackLayout>
         <Label 
-            Text="RELATÓRIOS"
+            Text="Welcome to .NET MAUI!"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>
