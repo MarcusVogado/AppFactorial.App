@@ -9,11 +9,7 @@
         <ShellContent
             Title="Início"
             ContentTemplate="{DataTemplate local:HomePage}"
-            Route="HomePage"/>
-        <ShellContent
-            Title="Relatórios"            
-            ContentTemplate="{DataTemplate local:Report}"
-            Route="Report"/>
+            Route="HomePage"/>       
     </TabBar>
         
      
